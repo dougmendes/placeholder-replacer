@@ -1,0 +1,13 @@
+- placeholder: maven-version
+  value: 3.8.1
+- placeholder: group-id
+  value: com.example
+- placeholder: artifact-id
+  value: my-project
+- placeholder: project-version
+  value: 1.0.0
+- placeholder: description
+  value: A simple Maven project
+- placeholder: junit-version
+  value: 5.7.2
+# Adicione mais placeholders e valores conforme necessário
